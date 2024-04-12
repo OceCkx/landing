@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,200..900;1,7..72,200..900&family=Mada:wght@200..900&family=Voces&display=swap');
+
+
+
+@import url("components/avatar.css");
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Voces', sans-serif;
+	background-color:#F8F1ED;
+	margin: 0px;
+}
+
+h1, h2, h3,{
+	font-family: 'Mada', sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
